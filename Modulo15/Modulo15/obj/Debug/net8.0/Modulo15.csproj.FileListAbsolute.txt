@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\Modulo15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\Modulo15.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\Modulo15.AssemblyInfo.cs
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\Modulo15.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\bin\Debug\net8.0\Modulo15.exe
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\bin\Debug\net8.0\Modulo15.deps.json
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\bin\Debug\net8.0\Modulo15.runtimeconfig.json
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\bin\Debug\net8.0\Modulo15.dll
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\bin\Debug\net8.0\Modulo15.pdb
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\Modulo15.dll
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\refint\Modulo15.dll
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\Modulo15.pdb
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\Modulo15.genruntimeconfig.cache
+C:\Users\lucas\Desktop\aulas\Udemy\.net\Aula 1\Modulo15\Modulo15\Modulo15\obj\Debug\net8.0\ref\Modulo15.dll
